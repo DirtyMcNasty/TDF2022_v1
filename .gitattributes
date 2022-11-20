@@ -1,2 +1,227 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<?xml version="1.0" encoding="UTF-8"?>
+<TDF2022>
+<results>
+<stage1>
+<stageID>Copenhague->Copenhague</stageID>
+<date>2022-7-1</date>
+<length>13.2km</length>
+<type>Timetrial</type>
+<_1>
+<rider>
+<Bib>56</Bib>
+<name>Yves</name>
+<lastname>Lampaert</lastname>
+<dateOfBirth>1991-4-10</dateOfBirth>
+<country>Belgium</country>
+</rider>
+<team>
+<teamID>Quick-Step Alpha Vinyl Team</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>S-Works</bicycleID>
+</bicycle>
+<components>
+<componentsID>Shimano</componentsID>
+<groupset>Shimano Dura-Ace Di2</groupset>
+</components>
+</team>
+<time>0</time>
+</_1>
+<_2>
+<rider>
+<Bib>16</Bib>
+<name>Wout</name>
+<lastname>Van Aert</lastname>
+<dateOfBirth>1994-9-15</dateOfBirth>
+<country>Belgium</country>
+</rider>
+<team>
+<teamID>Jumbo Visma</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>Cervelo</bicycleID>
+</bicycle>
+<components>
+<componentsID>Shimano</componentsID>
+<groupset>Shimano Dura-Ace Di2</groupset>
+</components>
+</team>
+<time>+0:05</time>
+</_2>
+<_3>
+<rider>
+<Bib>1</Bib>
+<name>Tadej</name>
+<lastname>Pogačar</lastname>
+<dateOfBirth>1998-9-21</dateOfBirth>
+<country>Slovenia</country>
+</rider>
+<team>
+<teamID>UAE Team Emirates</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>Colnago</bicycleID>
+</bicycle>
+<components>
+<componentsID>Campagnolo</componentsID>
+<groupset>Campagnolo Super Record EPS</groupset>
+</components>
+</team>
+<time>+0:07</time>
+</_3>
+<_4>
+<rider>
+<Bib>24</Bib>
+<name>Filippo</name>
+<lastname>Ganna</lastname>
+<dateOfBirth>1996-7-25</dateOfBirth>
+<country>Italy</country>
+</rider>
+<team>
+<teamID>Ineos Grenadiers</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>Pinarello</bicycleID>
+</bicycle>
+<components>
+<componentsID>Shimano</componentsID>
+<groupset>Shimano Dura-Ace Di2</groupset>
+</components>
+</team>
+<time>+0:10</time>
+</_4>
+<_5>
+<rider>
+<Bib>101</Bib>
+<name>Mathieu</name>
+<lastname>Van Der Poel</lastname>
+<dateOfBirth>1995-1-19</dateOfBirth>
+<country>Netherlands</country>
+</rider>
+<team>
+<teamID>Alpecin Deceuninck</teamID>
+<status>UCI Pro Team</status>
+<bicycle>
+<bicycleID>Canyon</bicycleID>
+</bicycle>
+<components>
+<componentsID>SRAM</componentsID>
+<groupset>SRAM Red eTap AXS</groupset>
+</components>
+</team>
+<time>+0:13</time>
+</_5>
+</stage1>
+<stage2>
+<stageID>Roskilde->Nyborg</stageID>
+<date>2022-7-2</date>
+<length>202.2km</length>
+<type>Flat</type>
+<_1>
+<rider>
+<Bib>51</Bib>
+<name>Fabio</name>
+<lastname>Jakobsen</lastname>
+<dateOfBirth>1996-8-31</dateOfBirth>
+<country>Netherlands</country>
+</rider>
+<team>
+<teamID>Quick-Step Alpha Vinyl Team</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>S-Works</bicycleID>
+</bicycle>
+<components>
+<componentsID>Shimano</componentsID>
+<groupset>Shimano Dura-Ace Di2</groupset>
+</components>
+</team>
+<time>0</time>
+</_1>
+<_2>
+<rider>
+<Bib>16</Bib>
+<name>Wout</name>
+<lastname>Van Aert</lastname>
+<dateOfBirth>1994-9-15</dateOfBirth>
+<country>Belgium</country>
+</rider>
+<team>
+<teamID>Jumbo Visma</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>Cervelo</bicycleID>
+</bicycle>
+<components>
+<componentsID>Shimano</componentsID>
+<groupset>Shimano Dura-Ace Di2</groupset>
+</components>
+</team>
+<time>+0</time>
+</_2>
+<_3>
+<rider>
+<Bib>171</Bib>
+<name>Mads</name>
+<lastname>Pedersen</lastname>
+<dateOfBirth>1995-12-18</dateOfBirth>
+<country>Denmark</country>
+</rider>
+<team>
+<teamID>Trek Segafredo</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>Trek</bicycleID>
+</bicycle>
+<components>
+<componentsID>Sram</componentsID>
+<groupset>SRAM Red eTap AXS</groupset>
+</components>
+</team>
+<time>+0</time>
+</_3>
+<_4>
+<rider>
+<Bib>48</Bib>
+<name>Danny</name>
+<lastname>Van Poppel</lastname>
+<dateOfBirth>1993-7-26</dateOfBirth>
+<country>Netherlands</country>
+</rider>
+<team>
+<teamID>Bora Hansgrohe</teamID>
+<status>UCI World Team</status>
+<bicycle>
+<bicycleID>S-Works</bicycleID>
+</bicycle>
+<components>
+<componentsID>Shimano</componentsID>
+<groupset>Shimano Dura-Ace Di2</groupset>
+</components>
+</team>
+<time>+0</time>
+</_4>
+<_5>
+<rider>
+<Bib>105</Bib>
+<name>Jasper</name>
+<lastname>Philipsen</lastname>
+<dateOfBirth>1998-3-2</dateOfBirth>
+<country>Belgium</country>
+</rider>
+<team>
+<teamID>Alpecin Deceuninck</teamID>
+<status>UCI Pro Team</status>
+<bicycle>
+<bicycleID>Canyon</bicycleID>
+</bicycle>
+<components>
+<componentsID>SRAM</componentsID>
+<groupset>SRAM Red eTap AXS</groupset>
+</components>
+</team>
+<time>+0</time>
+</_5>
+</stage2>
+</results>
+</TDF2022>
